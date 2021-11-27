@@ -1,0 +1,16 @@
+Welcome to what is essentially Crossy Road in first person 3D. Once you press Play in the editor, the game will begin.
+Walk across the streets, collecting ducks while avoiding getting hit by cars. If you get hit by a car, the game ends.
+
+You win the game by collecting all 10 rubber ducks found across the map. Good luck!
+
+NOTE: In the Game window (that comes up when you press Play), change the resolution at the top of the window from "Free Aspect" to "Full HD".
+Otherwise you may notice visual issues, as this game was designed for 16:9 aspect ratios.
+
+NOTE 2: If you start walking at a very very slow pace (you can tell, it feels like a crawl and it's hard to make it across even slower roads)
+then restart Unity. This seems to be some inconsistent Unity bug or something that I can't figure out the cause of.
+
+Controls:
+WASD - Move around (forward, left, right, backwards respectively)
+Mouse - Look around
+Collide/walk into duck - Pick up duck
+

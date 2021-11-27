@@ -1,0 +1,17 @@
+Thanks to the following sources for creating and contributing resources used in this project:
+
+Sound:
+- Duck collect sound: propthis via freesound.org
+- Win Sound: jobro via freesound.org
+- Car crash sound: squareal via freesound.org
+
+Visuals:
+- Vehicle and road 3D models and textures by DevilsWorkShop via itch.io
+- Nature models and textures by JustCreate via Unity Asset Store
+- Skybox by RenderKnight via Unity Asset Store
+- Wall and arch models and textures by L2S ARTS via Unity Asset Store
+- Rubber duck model and textures by cascadesgawd via CGTrader
+- Grass texture by Riley Boksenbaum, NU '24
+
+Most sources here fall under Creative Commons, but regardless all sources are property of their 
+respective owners and are not to be used in a commercial setting.
