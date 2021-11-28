@@ -2,6 +2,8 @@
  
 This game was created in roughly 8 hours as the result of a COVID booster induced fever dream about if [*Crossy Road*](https://en.wikipedia.org/wiki/Crossy_Road) was in first person. *ROADKILL!* does vary from *Crossy Road* in that instead of being an endless runner where the player must get as far as possible, the player is confined to a level and must collect all of the rubber ducks within that level. This is probably the simplest yet most "polished" game I have made yet, despite being made in much less time. I attribute this to a simplification of game rules and systems, a set and coherent art style, and a more refined of implementation for UI, audio, etc that I have worked on throughout this course.
 
+You can find downloadable builds of this game under [Releases](https://github.com/jackburkhardt/roadkill/releases).
+
 ## Instructions
 Walk across the streets, collecting ducks while avoiding getting hit by cars. If you get hit by a car, the game ends. You win the game by collecting all 10 rubber ducks found across the map. Good luck!
 
