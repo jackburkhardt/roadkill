@@ -17,7 +17,7 @@ RenderSettings:
   m_Fog: 1
   m_FogColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   m_FogMode: 3
-  m_FogDensity: 0.01
+  m_FogDensity: 0.015
   m_LinearFogStart: 0
   m_LinearFogEnd: 300
   m_AmbientSkyColor: {r: 0.7978996, g: 0.82438594, b: 0.8773585, a: 1}
@@ -17082,7 +17082,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ac941810fbc59a443a78e22a0443675f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MovementScale: 0.5
+  MovementScale: 1.7
   AudioHandler: {fileID: 1953340897}
 --- !u!4 &2239932769432971260
 Transform:
